@@ -1,4 +1,4 @@
-# Machine-Learning
+# Steel Industry Energy Consumption
 
 ### Project Overview
 This project aims to predict the energy consumption of the Steel Industry. Leveraging both Supervised and Unsupervised Learning techniques with Python3, the project employs various algorithms, including KNN, Decision Tree, Random Forest, K Means, and Subspace Clustering.
